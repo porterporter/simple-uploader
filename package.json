@@ -1,0 +1,16 @@
+{
+  "name": "stric-image-host",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@stricjs/router": "^4.2.4",
+    "@stricjs/utils": "^1.5.3",
+    "file-type": "^18.5.0"
+  }
+}
